@@ -10,6 +10,10 @@ Directores:
 - Velandia Patiño, Francisco Alberto
 - Sanabria Gómez, José David
 
-URI:
+Modelos disponibles en:
+
+https://github.com/sergioGarcia91/AplicativoMesaLosSantos/tree/c25dcf210371d08930d5a0c8b4fdd9414f70545b/modelosNN
+
+URI tesis:
 
 https://noesis.uis.edu.co/handle/20.500.14071/11267
