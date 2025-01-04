@@ -7,8 +7,8 @@ Análisis estructural de la Mesa de Los Santos y redes neuronales para la estima
 
 Directores:
 
-Velandia Patiño, Francisco Alberto
-Sanabria Gómez, José David
+- Velandia Patiño, Francisco Alberto
+- Sanabria Gómez, José David
 
 URI:
 
